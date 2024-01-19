@@ -2,7 +2,7 @@
 проблемы  с камероы
 
 
-Установил приложение из GooglePlay
+<br/>Установил приложение из GooglePlay<br/>
 <img src="https://github.com/MyasnikovIA/Error_IP360/blob/main/img/photo_2024-01-19_09-32-56.jpg?raw=true"/>
 <br/>Запустил<br/>
 <img src="https://github.com/MyasnikovIA/Error_IP360/blob/main/img/photo_2024-01-19_09-37-13.jpg?raw=true"/>
