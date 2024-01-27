@@ -41,6 +41,6 @@
 </H1>
       1) Выбирем регион "Китай"
 <br/> 2) Сбрасываем настройки
-<br/> <img src="https://github.com/MyasnikovIA/Error_IP360/blob/main/img/Freset.png?raw=true"/>
+<br/> <img src="https://github.com/MyasnikovIA/Error_IP360/blob/main/img/reset.png?raw=true"/>
 <br/> 3) Устанавливаем не правильную камеру, а потом повторно сбрасываем и устанавливаем правильную камеру
-<br/><img src="https://github.com/MyasnikovIA/Error_IP360/blob/main/img/OK.png.png?raw=true"/>
+<br/><img src="https://github.com/MyasnikovIA/Error_IP360/blob/main/img/OK.png?raw=true"/>
